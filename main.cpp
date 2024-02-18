@@ -51,6 +51,7 @@ double cos(double radsX) {
 	return result;
 }
 
+// i might add some loop checking here, idk hehe
 int main(int argv, char** argc) {
 	bool running = true;
 
